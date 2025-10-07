@@ -8,7 +8,7 @@ function findOdd(table) {
     return acc
 }
 
-let table = [1];
+let table = [1,2,2];
 console.log(findOdd(table));
 
 module.exports={
