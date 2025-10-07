@@ -11,3 +11,6 @@ function findOdd(table) {
 let table = [1];
 console.log(findOdd(table));
 
+module.exports={
+    findOdd
+}
